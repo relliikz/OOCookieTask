@@ -1,0 +1,16 @@
+C:\Users\101098271\OneDrive - Swinburne University\Tuesday\ICTPRG430 - INTRO PROGRAMMING\Week8\CookiesTask\obj\Debug\net5.0\CookiesTask.csproj.AssemblyReference.cache
+C:\Users\101098271\OneDrive - Swinburne University\Tuesday\ICTPRG430 - INTRO PROGRAMMING\Week8\CookiesTask\obj\Debug\net5.0\CookiesTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\101098271\OneDrive - Swinburne University\Tuesday\ICTPRG430 - INTRO PROGRAMMING\Week8\CookiesTask\obj\Debug\net5.0\CookiesTask.AssemblyInfoInputs.cache
+C:\Users\101098271\OneDrive - Swinburne University\Tuesday\ICTPRG430 - INTRO PROGRAMMING\Week8\CookiesTask\obj\Debug\net5.0\CookiesTask.AssemblyInfo.cs
+C:\Users\101098271\OneDrive - Swinburne University\Tuesday\ICTPRG430 - INTRO PROGRAMMING\Week8\CookiesTask\obj\Debug\net5.0\CookiesTask.csproj.CoreCompileInputs.cache
+C:\Users\101098271\OneDrive - Swinburne University\Tuesday\ICTPRG430 - INTRO PROGRAMMING\Week8\CookiesTask\bin\Debug\net5.0\CookiesTask.exe
+C:\Users\101098271\OneDrive - Swinburne University\Tuesday\ICTPRG430 - INTRO PROGRAMMING\Week8\CookiesTask\bin\Debug\net5.0\CookiesTask.deps.json
+C:\Users\101098271\OneDrive - Swinburne University\Tuesday\ICTPRG430 - INTRO PROGRAMMING\Week8\CookiesTask\bin\Debug\net5.0\CookiesTask.runtimeconfig.json
+C:\Users\101098271\OneDrive - Swinburne University\Tuesday\ICTPRG430 - INTRO PROGRAMMING\Week8\CookiesTask\bin\Debug\net5.0\CookiesTask.runtimeconfig.dev.json
+C:\Users\101098271\OneDrive - Swinburne University\Tuesday\ICTPRG430 - INTRO PROGRAMMING\Week8\CookiesTask\bin\Debug\net5.0\CookiesTask.dll
+C:\Users\101098271\OneDrive - Swinburne University\Tuesday\ICTPRG430 - INTRO PROGRAMMING\Week8\CookiesTask\bin\Debug\net5.0\ref\CookiesTask.dll
+C:\Users\101098271\OneDrive - Swinburne University\Tuesday\ICTPRG430 - INTRO PROGRAMMING\Week8\CookiesTask\bin\Debug\net5.0\CookiesTask.pdb
+C:\Users\101098271\OneDrive - Swinburne University\Tuesday\ICTPRG430 - INTRO PROGRAMMING\Week8\CookiesTask\obj\Debug\net5.0\CookiesTask.dll
+C:\Users\101098271\OneDrive - Swinburne University\Tuesday\ICTPRG430 - INTRO PROGRAMMING\Week8\CookiesTask\obj\Debug\net5.0\ref\CookiesTask.dll
+C:\Users\101098271\OneDrive - Swinburne University\Tuesday\ICTPRG430 - INTRO PROGRAMMING\Week8\CookiesTask\obj\Debug\net5.0\CookiesTask.pdb
+C:\Users\101098271\OneDrive - Swinburne University\Tuesday\ICTPRG430 - INTRO PROGRAMMING\Week8\CookiesTask\obj\Debug\net5.0\CookiesTask.genruntimeconfig.cache
